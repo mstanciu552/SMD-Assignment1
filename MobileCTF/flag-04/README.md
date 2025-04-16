@@ -22,4 +22,5 @@ The flag is: flag-2F110A91-4BAC-4A18-A680-A6C2987CC2C4
 
 ## Recording
 
-[Video Recording Flag 04]()
+[Video Recording Flag 04](https://youtu.be/fwclsrXhUL8)
+

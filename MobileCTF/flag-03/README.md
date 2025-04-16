@@ -6,4 +6,6 @@ Same process as last flag, plugged the executable into ghidra and searched for t
 
 Flag found: flag-9861DA53-C08C-47C4-84D6-B48463AB738A
 
-## Recordings
+## Recording
+
+[Video Recording Flag 03](https://youtu.be/kywiCnCnItY)
